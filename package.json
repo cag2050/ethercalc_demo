@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/cag2050/ethercalc_demo/issues"
   },
-  "homepage": "https://github.com/cag2050/ethercalc_demo#readme",
-  "dependencies": {
-    "ethercalc": "^0.20161220.1"
-  }
+  "homepage": "https://github.com/cag2050/ethercalc_demo#readme"
 }

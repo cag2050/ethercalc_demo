@@ -1,0 +1,14 @@
+{
+  "chat-mv1vtik4i3wu_formdata": [],
+  "chat-mv1vtik4i3wu": [],
+  "snapshot-mv1vtik4i3wu_formdata": "socialcalc:version:1.0\nMIME-Version: 1.0\nContent-Type: multipart/mixed; boundary=SocialCalcSpreadsheetControlSave\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\n# SocialCalc Spreadsheet Control Save\nversion:1.0\npart:sheet\npart:edit\npart:audit\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\nversion:1.5\nsheet:c:1:r:1:tvf:1\nvalueformat:1:text-wiki\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\nversion:1.0\nrowpane:0:1:1\ncolpane:0:1:1\necell:A1\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\n--SocialCalcSpreadsheetControlSave--\n",
+  "snapshot-mv1vtik4i3wu": "socialcalc:version:1.0\nMIME-Version: 1.0\nContent-Type: multipart/mixed; boundary=SocialCalcSpreadsheetControlSave\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\n# SocialCalc Spreadsheet Control Save\nversion:1.0\npart:sheet\npart:edit\npart:audit\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\nversion:1.5\ncell:A1:v:111\ncell:B1:v:222\ncell:A2:v:222\ncell:B2:t:b2\nsheet:c:2:r:2:tvf:1\nvalueformat:1:text-wiki\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\nversion:1.0\nrowpane:0:1:1\ncolpane:0:1:1\necell:A1\n--SocialCalcSpreadsheetControlSave\nContent-type: text/plain; charset=UTF-8\n\n--SocialCalcSpreadsheetControlSave--\n",
+  "audit-mv1vtik4i3wu": [
+    "set A1 value n 111",
+    "set A2 value n 222",
+    "set B1 value n 222",
+    "set B2 text t b2",
+    "set B2 all ",
+    "set B2 text t b2"
+  ]
+}
